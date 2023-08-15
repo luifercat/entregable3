@@ -1,5 +1,3 @@
-//COMPONENTE donde el usuario va a buscar dimensiones
-
 const LocationForm = ({ handleSubmit }) => {
   return (
     <form className="flex justify-center p-5" onSubmit={handleSubmit}>
